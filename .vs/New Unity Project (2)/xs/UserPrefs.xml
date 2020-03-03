@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{68935561-146A-092C-1CE2-388EF65D57EF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MyScripts/WallScript.cs">
+    <Files>
+      <File FileName="Assets/MyScripts/MyScript.cs" Line="76" Column="1" />
+      <File FileName="Assets/MyScripts/WallScript.cs" Line="51" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/arlen/New Unity Project (2)/Assets/MyScripts/WallScript.cs" relfile="Assets/MyScripts/WallScript.cs" line="47" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
